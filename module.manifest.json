@@ -1,0 +1,14 @@
+{
+  "moduleId": "webwaka-ext-analytics-hub",
+  "name": "Analytics Hub",
+  "version": "0.1.0",
+  "class": "ext",
+  "description": "Analytics and reporting hub",
+  "capabilities": [],
+  "dependencies": [],
+  "metadata": {
+    "author": "ChangerPlanet",
+    "license": "Proprietary",
+    "repository": "https://github.com/changerplanet/webwaka-ext-analytics-hub"
+  }
+}
